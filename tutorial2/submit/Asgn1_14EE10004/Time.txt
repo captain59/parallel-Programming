@@ -1,0 +1,3 @@
+Critical Time: 0.001394
+Collapse Time: 0.000162
+Reduction Time: 0.000752

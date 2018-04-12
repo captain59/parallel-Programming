@@ -1,0 +1,1447 @@
+NUM = 1000 HOUR = 3600 DELTA = 0.005000
+Number of Objects = 1000
+TIME = 3600
+DELTA INTERVAL = 0.005000
+Number of Threads = 48
+Total Itterations: 720000
+Itteration: 1000
+Time Required for each step: 0.002645
+Itteration: 2000
+Time Required for each step: 0.002648
+Itteration: 3000
+Time Required for each step: 0.002542
+Itteration: 4000
+Time Required for each step: 0.002791
+Itteration: 5000
+Time Required for each step: 0.002494
+Itteration: 6000
+Time Required for each step: 0.002478
+Itteration: 7000
+Time Required for each step: 0.002552
+Itteration: 8000
+Time Required for each step: 0.002673
+Itteration: 9000
+Time Required for each step: 0.002694
+Itteration: 10000
+Time Required for each step: 0.002471
+Itteration: 11000
+Time Required for each step: 0.002490
+Itteration: 12000
+Time Required for each step: 0.002182
+Itteration: 13000
+Time Required for each step: 0.002574
+Itteration: 14000
+Time Required for each step: 0.002636
+Itteration: 15000
+Time Required for each step: 0.002685
+Itteration: 16000
+Time Required for each step: 0.002405
+Itteration: 17000
+Time Required for each step: 0.002495
+Itteration: 18000
+Time Required for each step: 0.002459
+Itteration: 19000
+Time Required for each step: 0.002571
+Itteration: 20000
+Time Required for each step: 0.002478
+Itteration: 21000
+Time Required for each step: 0.002611
+Itteration: 22000
+Time Required for each step: 0.003331
+Itteration: 23000
+Time Required for each step: 0.002520
+Itteration: 24000
+Time Required for each step: 0.002703
+Itteration: 25000
+Time Required for each step: 0.002488
+Itteration: 26000
+Time Required for each step: 0.002641
+Itteration: 27000
+Time Required for each step: 0.002585
+Itteration: 28000
+Time Required for each step: 0.002725
+Itteration: 29000
+Time Required for each step: 0.002640
+Itteration: 30000
+Time Required for each step: 0.002356
+Itteration: 31000
+Time Required for each step: 0.002850
+Itteration: 32000
+Time Required for each step: 0.002524
+Itteration: 33000
+Time Required for each step: 0.002693
+Itteration: 34000
+Time Required for each step: 0.002627
+Itteration: 35000
+Time Required for each step: 0.002576
+Itteration: 36000
+Time Required for each step: 0.002660
+Itteration: 37000
+Time Required for each step: 0.002679
+Itteration: 38000
+Time Required for each step: 0.002557
+Itteration: 39000
+Time Required for each step: 0.002657
+Itteration: 40000
+Time Required for each step: 0.002796
+Itteration: 41000
+Time Required for each step: 0.002571
+Itteration: 42000
+Time Required for each step: 0.002698
+Itteration: 43000
+Time Required for each step: 0.002571
+Itteration: 44000
+Time Required for each step: 0.002807
+Itteration: 45000
+Time Required for each step: 0.002636
+Itteration: 46000
+Time Required for each step: 0.002661
+Itteration: 47000
+Time Required for each step: 0.002633
+Itteration: 48000
+Time Required for each step: 0.002656
+Itteration: 49000
+Time Required for each step: 0.002499
+Itteration: 50000
+Time Required for each step: 0.020295
+Itteration: 51000
+Time Required for each step: 0.002596
+Itteration: 52000
+Time Required for each step: 0.002386
+Itteration: 53000
+Time Required for each step: 0.002560
+Itteration: 54000
+Time Required for each step: 0.002548
+Itteration: 55000
+Time Required for each step: 0.002650
+Itteration: 56000
+Time Required for each step: 0.002759
+Itteration: 57000
+Time Required for each step: 0.002722
+Itteration: 58000
+Time Required for each step: 0.002689
+Itteration: 59000
+Time Required for each step: 0.002549
+Itteration: 60000
+Time Required for each step: 0.002418
+Itteration: 61000
+Time Required for each step: 0.002501
+Itteration: 62000
+Time Required for each step: 0.002495
+Itteration: 63000
+Time Required for each step: 0.002583
+Itteration: 64000
+Time Required for each step: 0.002479
+Itteration: 65000
+Time Required for each step: 0.002564
+Itteration: 66000
+Time Required for each step: 0.002675
+Itteration: 67000
+Time Required for each step: 0.002643
+Itteration: 68000
+Time Required for each step: 0.002477
+Itteration: 69000
+Time Required for each step: 0.002660
+Itteration: 70000
+Time Required for each step: 0.002504
+Itteration: 71000
+Time Required for each step: 0.002451
+Itteration: 72000
+Time Required for each step: 0.002720
+Itteration: 73000
+Time Required for each step: 0.002435
+Itteration: 74000
+Time Required for each step: 0.002107
+Itteration: 75000
+Time Required for each step: 0.002546
+Itteration: 76000
+Time Required for each step: 0.002653
+Itteration: 77000
+Time Required for each step: 0.002634
+Itteration: 78000
+Time Required for each step: 0.002458
+Itteration: 79000
+Time Required for each step: 0.002633
+Itteration: 80000
+Time Required for each step: 0.002441
+Itteration: 81000
+Time Required for each step: 0.002498
+Itteration: 82000
+Time Required for each step: 0.002572
+Itteration: 83000
+Time Required for each step: 0.002585
+Itteration: 84000
+Time Required for each step: 0.002547
+Itteration: 85000
+Time Required for each step: 0.002539
+Itteration: 86000
+Time Required for each step: 0.002517
+Itteration: 87000
+Time Required for each step: 0.002647
+Itteration: 88000
+Time Required for each step: 0.002591
+Itteration: 89000
+Time Required for each step: 0.002757
+Itteration: 90000
+Time Required for each step: 0.002323
+Itteration: 91000
+Time Required for each step: 0.002624
+Itteration: 92000
+Time Required for each step: 0.002438
+Itteration: 93000
+Time Required for each step: 0.002652
+Itteration: 94000
+Time Required for each step: 0.002611
+Itteration: 95000
+Time Required for each step: 0.002661
+Itteration: 96000
+Time Required for each step: 0.002697
+Itteration: 97000
+Time Required for each step: 0.002570
+Itteration: 98000
+Time Required for each step: 0.002401
+Itteration: 99000
+Time Required for each step: 0.002640
+Itteration: 100000
+Time Required for each step: 0.002519
+Itteration: 101000
+Time Required for each step: 0.002464
+Itteration: 102000
+Time Required for each step: 0.002598
+Itteration: 103000
+Time Required for each step: 0.002651
+Itteration: 104000
+Time Required for each step: 0.002519
+Itteration: 105000
+Time Required for each step: 0.002725
+Itteration: 106000
+Time Required for each step: 0.002509
+Itteration: 107000
+Time Required for each step: 0.002516
+Itteration: 108000
+Time Required for each step: 0.002523
+Itteration: 109000
+Time Required for each step: 0.002678
+Itteration: 110000
+Time Required for each step: 0.002613
+Itteration: 111000
+Time Required for each step: 0.002530
+Itteration: 112000
+Time Required for each step: 0.002551
+Itteration: 113000
+Time Required for each step: 0.002526
+Itteration: 114000
+Time Required for each step: 0.002617
+Itteration: 115000
+Time Required for each step: 0.002408
+Itteration: 116000
+Time Required for each step: 0.002461
+Itteration: 117000
+Time Required for each step: 0.002602
+Itteration: 118000
+Time Required for each step: 0.002339
+Itteration: 119000
+Time Required for each step: 0.002566
+Itteration: 120000
+Time Required for each step: 0.002556
+Itteration: 121000
+Time Required for each step: 0.002452
+Itteration: 122000
+Time Required for each step: 0.002473
+Itteration: 123000
+Time Required for each step: 0.002658
+Itteration: 124000
+Time Required for each step: 0.002520
+Itteration: 125000
+Time Required for each step: 0.002605
+Itteration: 126000
+Time Required for each step: 0.002575
+Itteration: 127000
+Time Required for each step: 0.002462
+Itteration: 128000
+Time Required for each step: 0.002389
+Itteration: 129000
+Time Required for each step: 0.002644
+Itteration: 130000
+Time Required for each step: 0.002600
+Itteration: 131000
+Time Required for each step: 0.002685
+Itteration: 132000
+Time Required for each step: 0.002682
+Itteration: 133000
+Time Required for each step: 0.002611
+Itteration: 134000
+Time Required for each step: 0.002730
+Itteration: 135000
+Time Required for each step: 0.002659
+Itteration: 136000
+Time Required for each step: 0.002570
+Itteration: 137000
+Time Required for each step: 0.002371
+Itteration: 138000
+Time Required for each step: 0.002667
+Itteration: 139000
+Time Required for each step: 0.002415
+Itteration: 140000
+Time Required for each step: 0.002136
+Itteration: 141000
+Time Required for each step: 0.002638
+Itteration: 142000
+Time Required for each step: 0.002320
+Itteration: 143000
+Time Required for each step: 0.002622
+Itteration: 144000
+Time Required for each step: 0.002489
+Itteration: 145000
+Time Required for each step: 0.002484
+Itteration: 146000
+Time Required for each step: 0.002384
+Itteration: 147000
+Time Required for each step: 0.002545
+Itteration: 148000
+Time Required for each step: 0.002614
+Itteration: 149000
+Time Required for each step: 0.002484
+Itteration: 150000
+Time Required for each step: 0.002654
+Itteration: 151000
+Time Required for each step: 0.002467
+Itteration: 152000
+Time Required for each step: 0.002633
+Itteration: 153000
+Time Required for each step: 0.002587
+Itteration: 154000
+Time Required for each step: 0.002637
+Itteration: 155000
+Time Required for each step: 0.002756
+Itteration: 156000
+Time Required for each step: 0.002752
+Itteration: 157000
+Time Required for each step: 0.002582
+Itteration: 158000
+Time Required for each step: 0.002425
+Itteration: 159000
+Time Required for each step: 0.002661
+Itteration: 160000
+Time Required for each step: 0.002531
+Itteration: 161000
+Time Required for each step: 0.002782
+Itteration: 162000
+Time Required for each step: 0.002672
+Itteration: 163000
+Time Required for each step: 0.002696
+Itteration: 164000
+Time Required for each step: 0.002669
+Itteration: 165000
+Time Required for each step: 0.002625
+Itteration: 166000
+Time Required for each step: 0.002638
+Itteration: 167000
+Time Required for each step: 0.002715
+Itteration: 168000
+Time Required for each step: 0.002659
+Itteration: 169000
+Time Required for each step: 0.002356
+Itteration: 170000
+Time Required for each step: 0.002613
+Itteration: 171000
+Time Required for each step: 0.002647
+Itteration: 172000
+Time Required for each step: 0.002755
+Itteration: 173000
+Time Required for each step: 0.002682
+Itteration: 174000
+Time Required for each step: 0.002679
+Itteration: 175000
+Time Required for each step: 0.002637
+Itteration: 176000
+Time Required for each step: 0.002445
+Itteration: 177000
+Time Required for each step: 0.002744
+Itteration: 178000
+Time Required for each step: 0.002708
+Itteration: 179000
+Time Required for each step: 0.002665
+Itteration: 180000
+Time Required for each step: 0.002709
+Itteration: 181000
+Time Required for each step: 0.002805
+Itteration: 182000
+Time Required for each step: 0.002704
+Itteration: 183000
+Time Required for each step: 0.002608
+Itteration: 184000
+Time Required for each step: 0.002594
+Itteration: 185000
+Time Required for each step: 0.002621
+Itteration: 186000
+Time Required for each step: 0.002599
+Itteration: 187000
+Time Required for each step: 0.002748
+Itteration: 188000
+Time Required for each step: 0.002722
+Itteration: 189000
+Time Required for each step: 0.002680
+Itteration: 190000
+Time Required for each step: 0.002573
+Itteration: 191000
+Time Required for each step: 0.002459
+Itteration: 192000
+Time Required for each step: 0.002673
+Itteration: 193000
+Time Required for each step: 0.002605
+Itteration: 194000
+Time Required for each step: 0.002763
+Itteration: 195000
+Time Required for each step: 0.002657
+Itteration: 196000
+Time Required for each step: 0.002726
+Itteration: 197000
+Time Required for each step: 0.002803
+Itteration: 198000
+Time Required for each step: 0.002580
+Itteration: 199000
+Time Required for each step: 0.002402
+Itteration: 200000
+Time Required for each step: 0.002631
+Itteration: 201000
+Time Required for each step: 0.002648
+Itteration: 202000
+Time Required for each step: 0.002588
+Itteration: 203000
+Time Required for each step: 0.002808
+Itteration: 204000
+Time Required for each step: 0.002465
+Itteration: 205000
+Time Required for each step: 0.002646
+Itteration: 206000
+Time Required for each step: 0.002483
+Itteration: 207000
+Time Required for each step: 0.002467
+Itteration: 208000
+Time Required for each step: 0.002501
+Itteration: 209000
+Time Required for each step: 0.002612
+Itteration: 210000
+Time Required for each step: 0.002776
+Itteration: 211000
+Time Required for each step: 0.002824
+Itteration: 212000
+Time Required for each step: 0.002726
+Itteration: 213000
+Time Required for each step: 0.002510
+Itteration: 214000
+Time Required for each step: 0.002309
+Itteration: 215000
+Time Required for each step: 0.002564
+Itteration: 216000
+Time Required for each step: 0.002770
+Itteration: 217000
+Time Required for each step: 0.002716
+Itteration: 218000
+Time Required for each step: 0.002362
+Itteration: 219000
+Time Required for each step: 0.002643
+Itteration: 220000
+Time Required for each step: 0.002659
+Itteration: 221000
+Time Required for each step: 0.002609
+Itteration: 222000
+Time Required for each step: 0.002686
+Itteration: 223000
+Time Required for each step: 0.002527
+Itteration: 224000
+Time Required for each step: 0.002507
+Itteration: 225000
+Time Required for each step: 0.002429
+Itteration: 226000
+Time Required for each step: 0.002650
+Itteration: 227000
+Time Required for each step: 0.002665
+Itteration: 228000
+Time Required for each step: 0.002525
+Itteration: 229000
+Time Required for each step: 0.002581
+Itteration: 230000
+Time Required for each step: 0.002717
+Itteration: 231000
+Time Required for each step: 0.002598
+Itteration: 232000
+Time Required for each step: 0.002673
+Itteration: 233000
+Time Required for each step: 0.002765
+Itteration: 234000
+Time Required for each step: 0.002804
+Itteration: 235000
+Time Required for each step: 0.002598
+Itteration: 236000
+Time Required for each step: 0.002526
+Itteration: 237000
+Time Required for each step: 0.002793
+Itteration: 238000
+Time Required for each step: 0.002628
+Itteration: 239000
+Time Required for each step: 0.002402
+Itteration: 240000
+Time Required for each step: 0.002647
+Itteration: 241000
+Time Required for each step: 0.002842
+Itteration: 242000
+Time Required for each step: 0.002119
+Itteration: 243000
+Time Required for each step: 0.002474
+Itteration: 244000
+Time Required for each step: 0.002563
+Itteration: 245000
+Time Required for each step: 0.002668
+Itteration: 246000
+Time Required for each step: 0.002284
+Itteration: 247000
+Time Required for each step: 0.002768
+Itteration: 248000
+Time Required for each step: 0.002507
+Itteration: 249000
+Time Required for each step: 0.002801
+Itteration: 250000
+Time Required for each step: 0.002281
+Itteration: 251000
+Time Required for each step: 0.002744
+Itteration: 252000
+Time Required for each step: 0.002571
+Itteration: 253000
+Time Required for each step: 0.002533
+Itteration: 254000
+Time Required for each step: 0.002397
+Itteration: 255000
+Time Required for each step: 0.002651
+Itteration: 256000
+Time Required for each step: 0.002798
+Itteration: 257000
+Time Required for each step: 0.002744
+Itteration: 258000
+Time Required for each step: 0.002501
+Itteration: 259000
+Time Required for each step: 0.002666
+Itteration: 260000
+Time Required for each step: 0.002431
+Itteration: 261000
+Time Required for each step: 0.002499
+Itteration: 262000
+Time Required for each step: 0.002680
+Itteration: 263000
+Time Required for each step: 0.002645
+Itteration: 264000
+Time Required for each step: 0.002844
+Itteration: 265000
+Time Required for each step: 0.002783
+Itteration: 266000
+Time Required for each step: 0.002756
+Itteration: 267000
+Time Required for each step: 0.002669
+Itteration: 268000
+Time Required for each step: 0.002647
+Itteration: 269000
+Time Required for each step: 0.002352
+Itteration: 270000
+Time Required for each step: 0.002687
+Itteration: 271000
+Time Required for each step: 0.002527
+Itteration: 272000
+Time Required for each step: 0.002686
+Itteration: 273000
+Time Required for each step: 0.002778
+Itteration: 274000
+Time Required for each step: 0.002718
+Itteration: 275000
+Time Required for each step: 0.002493
+Itteration: 276000
+Time Required for each step: 0.002584
+Itteration: 277000
+Time Required for each step: 0.002442
+Itteration: 278000
+Time Required for each step: 0.002709
+Itteration: 279000
+Time Required for each step: 0.002319
+Itteration: 280000
+Time Required for each step: 0.002662
+Itteration: 281000
+Time Required for each step: 0.002558
+Itteration: 282000
+Time Required for each step: 0.002791
+Itteration: 283000
+Time Required for each step: 0.002645
+Itteration: 284000
+Time Required for each step: 0.002704
+Itteration: 285000
+Time Required for each step: 0.002513
+Itteration: 286000
+Time Required for each step: 0.002599
+Itteration: 287000
+Time Required for each step: 0.002740
+Itteration: 288000
+Time Required for each step: 0.002533
+Itteration: 289000
+Time Required for each step: 0.002589
+Itteration: 290000
+Time Required for each step: 0.002698
+Itteration: 291000
+Time Required for each step: 0.002486
+Itteration: 292000
+Time Required for each step: 0.002565
+Itteration: 293000
+Time Required for each step: 0.002659
+Itteration: 294000
+Time Required for each step: 0.002601
+Itteration: 295000
+Time Required for each step: 0.002617
+Itteration: 296000
+Time Required for each step: 0.002630
+Itteration: 297000
+Time Required for each step: 0.002488
+Itteration: 298000
+Time Required for each step: 0.002598
+Itteration: 299000
+Time Required for each step: 0.002622
+Itteration: 300000
+Time Required for each step: 0.002676
+Itteration: 301000
+Time Required for each step: 0.002654
+Itteration: 302000
+Time Required for each step: 0.002496
+Itteration: 303000
+Time Required for each step: 0.002669
+Itteration: 304000
+Time Required for each step: 0.002637
+Itteration: 305000
+Time Required for each step: 0.002576
+Itteration: 306000
+Time Required for each step: 0.002642
+Itteration: 307000
+Time Required for each step: 0.002543
+Itteration: 308000
+Time Required for each step: 0.002357
+Itteration: 309000
+Time Required for each step: 0.002728
+Itteration: 310000
+Time Required for each step: 0.002531
+Itteration: 311000
+Time Required for each step: 0.002648
+Itteration: 312000
+Time Required for each step: 0.002674
+Itteration: 313000
+Time Required for each step: 0.002581
+Itteration: 314000
+Time Required for each step: 0.002537
+Itteration: 315000
+Time Required for each step: 0.002600
+Itteration: 316000
+Time Required for each step: 0.002591
+Itteration: 317000
+Time Required for each step: 0.002654
+Itteration: 318000
+Time Required for each step: 0.002460
+Itteration: 319000
+Time Required for each step: 0.002611
+Itteration: 320000
+Time Required for each step: 0.002574
+Itteration: 321000
+Time Required for each step: 0.002751
+Itteration: 322000
+Time Required for each step: 0.002572
+Itteration: 323000
+Time Required for each step: 0.002519
+Itteration: 324000
+Time Required for each step: 0.002728
+Itteration: 325000
+Time Required for each step: 0.002493
+Itteration: 326000
+Time Required for each step: 0.002603
+Itteration: 327000
+Time Required for each step: 0.002573
+Itteration: 328000
+Time Required for each step: 0.002555
+Itteration: 329000
+Time Required for each step: 0.002731
+Itteration: 330000
+Time Required for each step: 0.002538
+Itteration: 331000
+Time Required for each step: 0.002563
+Itteration: 332000
+Time Required for each step: 0.002646
+Itteration: 333000
+Time Required for each step: 0.002374
+Itteration: 334000
+Time Required for each step: 0.002667
+Itteration: 335000
+Time Required for each step: 0.002553
+Itteration: 336000
+Time Required for each step: 0.002469
+Itteration: 337000
+Time Required for each step: 0.002436
+Itteration: 338000
+Time Required for each step: 0.002546
+Itteration: 339000
+Time Required for each step: 0.002739
+Itteration: 340000
+Time Required for each step: 0.002521
+Itteration: 341000
+Time Required for each step: 0.002523
+Itteration: 342000
+Time Required for each step: 0.002737
+Itteration: 343000
+Time Required for each step: 0.002680
+Itteration: 344000
+Time Required for each step: 0.002179
+Itteration: 345000
+Time Required for each step: 0.002527
+Itteration: 346000
+Time Required for each step: 0.002575
+Itteration: 347000
+Time Required for each step: 0.002654
+Itteration: 348000
+Time Required for each step: 0.002685
+Itteration: 349000
+Time Required for each step: 0.002801
+Itteration: 350000
+Time Required for each step: 0.002653
+Itteration: 351000
+Time Required for each step: 0.002680
+Itteration: 352000
+Time Required for each step: 0.002561
+Itteration: 353000
+Time Required for each step: 0.002666
+Itteration: 354000
+Time Required for each step: 0.002684
+Itteration: 355000
+Time Required for each step: 0.002302
+Itteration: 356000
+Time Required for each step: 0.002525
+Itteration: 357000
+Time Required for each step: 0.002360
+Itteration: 358000
+Time Required for each step: 0.002616
+Itteration: 359000
+Time Required for each step: 0.002494
+Itteration: 360000
+Time Required for each step: 0.002593
+Itteration: 361000
+Time Required for each step: 0.002449
+Itteration: 362000
+Time Required for each step: 0.002519
+Itteration: 363000
+Time Required for each step: 0.002496
+Itteration: 364000
+Time Required for each step: 0.002428
+Itteration: 365000
+Time Required for each step: 0.002737
+Itteration: 366000
+Time Required for each step: 0.002795
+Itteration: 367000
+Time Required for each step: 0.002605
+Itteration: 368000
+Time Required for each step: 0.002564
+Itteration: 369000
+Time Required for each step: 0.002666
+Itteration: 370000
+Time Required for each step: 0.002640
+Itteration: 371000
+Time Required for each step: 0.002568
+Itteration: 372000
+Time Required for each step: 0.002671
+Itteration: 373000
+Time Required for each step: 0.002588
+Itteration: 374000
+Time Required for each step: 0.002632
+Itteration: 375000
+Time Required for each step: 0.002771
+Itteration: 376000
+Time Required for each step: 0.002594
+Itteration: 377000
+Time Required for each step: 0.002618
+Itteration: 378000
+Time Required for each step: 0.002801
+Itteration: 379000
+Time Required for each step: 0.002805
+Itteration: 380000
+Time Required for each step: 0.002605
+Itteration: 381000
+Time Required for each step: 0.002539
+Itteration: 382000
+Time Required for each step: 0.002647
+Itteration: 383000
+Time Required for each step: 0.002670
+Itteration: 384000
+Time Required for each step: 0.002831
+Itteration: 385000
+Time Required for each step: 0.002529
+Itteration: 386000
+Time Required for each step: 0.002747
+Itteration: 387000
+Time Required for each step: 0.002439
+Itteration: 388000
+Time Required for each step: 0.002704
+Itteration: 389000
+Time Required for each step: 0.002701
+Itteration: 390000
+Time Required for each step: 0.002450
+Itteration: 391000
+Time Required for each step: 0.002705
+Itteration: 392000
+Time Required for each step: 0.002783
+Itteration: 393000
+Time Required for each step: 0.002688
+Itteration: 394000
+Time Required for each step: 0.002628
+Itteration: 395000
+Time Required for each step: 0.002645
+Itteration: 396000
+Time Required for each step: 0.002794
+Itteration: 397000
+Time Required for each step: 0.002767
+Itteration: 398000
+Time Required for each step: 0.002260
+Itteration: 399000
+Time Required for each step: 0.002797
+Itteration: 400000
+Time Required for each step: 0.002505
+Itteration: 401000
+Time Required for each step: 0.002274
+Itteration: 402000
+Time Required for each step: 0.002690
+Itteration: 403000
+Time Required for each step: 0.002630
+Itteration: 404000
+Time Required for each step: 0.002760
+Itteration: 405000
+Time Required for each step: 0.002667
+Itteration: 406000
+Time Required for each step: 0.002639
+Itteration: 407000
+Time Required for each step: 0.002352
+Itteration: 408000
+Time Required for each step: 0.002737
+Itteration: 409000
+Time Required for each step: 0.002562
+Itteration: 410000
+Time Required for each step: 0.002638
+Itteration: 411000
+Time Required for each step: 0.002621
+Itteration: 412000
+Time Required for each step: 0.002733
+Itteration: 413000
+Time Required for each step: 0.002679
+Itteration: 414000
+Time Required for each step: 0.002645
+Itteration: 415000
+Time Required for each step: 0.002624
+Itteration: 416000
+Time Required for each step: 0.002567
+Itteration: 417000
+Time Required for each step: 0.002797
+Itteration: 418000
+Time Required for each step: 0.002685
+Itteration: 419000
+Time Required for each step: 0.002561
+Itteration: 420000
+Time Required for each step: 0.002603
+Itteration: 421000
+Time Required for each step: 0.002544
+Itteration: 422000
+Time Required for each step: 0.002618
+Itteration: 423000
+Time Required for each step: 0.002823
+Itteration: 424000
+Time Required for each step: 0.002615
+Itteration: 425000
+Time Required for each step: 0.002684
+Itteration: 426000
+Time Required for each step: 0.002573
+Itteration: 427000
+Time Required for each step: 0.002505
+Itteration: 428000
+Time Required for each step: 0.002602
+Itteration: 429000
+Time Required for each step: 0.002515
+Itteration: 430000
+Time Required for each step: 0.002524
+Itteration: 431000
+Time Required for each step: 0.002588
+Itteration: 432000
+Time Required for each step: 0.002737
+Itteration: 433000
+Time Required for each step: 0.002823
+Itteration: 434000
+Time Required for each step: 0.002604
+Itteration: 435000
+Time Required for each step: 0.002604
+Itteration: 436000
+Time Required for each step: 0.002641
+Itteration: 437000
+Time Required for each step: 0.002624
+Itteration: 438000
+Time Required for each step: 0.002562
+Itteration: 439000
+Time Required for each step: 0.002627
+Itteration: 440000
+Time Required for each step: 0.002532
+Itteration: 441000
+Time Required for each step: 0.002448
+Itteration: 442000
+Time Required for each step: 0.002400
+Itteration: 443000
+Time Required for each step: 0.002616
+Itteration: 444000
+Time Required for each step: 0.002496
+Itteration: 445000
+Time Required for each step: 0.002475
+Itteration: 446000
+Time Required for each step: 0.002753
+Itteration: 447000
+Time Required for each step: 0.002678
+Itteration: 448000
+Time Required for each step: 0.002569
+Itteration: 449000
+Time Required for each step: 0.002738
+Itteration: 450000
+Time Required for each step: 0.002756
+Itteration: 451000
+Time Required for each step: 0.002488
+Itteration: 452000
+Time Required for each step: 0.002660
+Itteration: 453000
+Time Required for each step: 0.002444
+Itteration: 454000
+Time Required for each step: 0.002719
+Itteration: 455000
+Time Required for each step: 0.002549
+Itteration: 456000
+Time Required for each step: 0.002382
+Itteration: 457000
+Time Required for each step: 0.002741
+Itteration: 458000
+Time Required for each step: 0.002670
+Itteration: 459000
+Time Required for each step: 0.002723
+Itteration: 460000
+Time Required for each step: 0.002572
+Itteration: 461000
+Time Required for each step: 0.002732
+Itteration: 462000
+Time Required for each step: 0.002631
+Itteration: 463000
+Time Required for each step: 0.002699
+Itteration: 464000
+Time Required for each step: 0.002523
+Itteration: 465000
+Time Required for each step: 0.002577
+Itteration: 466000
+Time Required for each step: 0.002682
+Itteration: 467000
+Time Required for each step: 0.002730
+Itteration: 468000
+Time Required for each step: 0.002565
+Itteration: 469000
+Time Required for each step: 0.002825
+Itteration: 470000
+Time Required for each step: 0.002590
+Itteration: 471000
+Time Required for each step: 0.002771
+Itteration: 472000
+Time Required for each step: 0.002682
+Itteration: 473000
+Time Required for each step: 0.002584
+Itteration: 474000
+Time Required for each step: 0.002640
+Itteration: 475000
+Time Required for each step: 0.002424
+Itteration: 476000
+Time Required for each step: 0.002667
+Itteration: 477000
+Time Required for each step: 0.002628
+Itteration: 478000
+Time Required for each step: 0.002608
+Itteration: 479000
+Time Required for each step: 0.002597
+Itteration: 480000
+Time Required for each step: 0.002473
+Itteration: 481000
+Time Required for each step: 0.002589
+Itteration: 482000
+Time Required for each step: 0.002535
+Itteration: 483000
+Time Required for each step: 0.002689
+Itteration: 484000
+Time Required for each step: 0.002903
+Itteration: 485000
+Time Required for each step: 0.002449
+Itteration: 486000
+Time Required for each step: 0.002801
+Itteration: 487000
+Time Required for each step: 0.002714
+Itteration: 488000
+Time Required for each step: 0.002485
+Itteration: 489000
+Time Required for each step: 0.002439
+Itteration: 490000
+Time Required for each step: 0.002481
+Itteration: 491000
+Time Required for each step: 0.002669
+Itteration: 492000
+Time Required for each step: 0.002864
+Itteration: 493000
+Time Required for each step: 0.002742
+Itteration: 494000
+Time Required for each step: 0.002648
+Itteration: 495000
+Time Required for each step: 0.002654
+Itteration: 496000
+Time Required for each step: 0.002469
+Itteration: 497000
+Time Required for each step: 0.002661
+Itteration: 498000
+Time Required for each step: 0.002825
+Itteration: 499000
+Time Required for each step: 0.002563
+Itteration: 500000
+Time Required for each step: 0.002577
+Itteration: 501000
+Time Required for each step: 0.002772
+Itteration: 502000
+Time Required for each step: 0.002437
+Itteration: 503000
+Time Required for each step: 0.002573
+Itteration: 504000
+Time Required for each step: 0.002612
+Itteration: 505000
+Time Required for each step: 0.002577
+Itteration: 506000
+Time Required for each step: 0.002629
+Itteration: 507000
+Time Required for each step: 0.002586
+Itteration: 508000
+Time Required for each step: 0.002643
+Itteration: 509000
+Time Required for each step: 0.002431
+Itteration: 510000
+Time Required for each step: 0.002616
+Itteration: 511000
+Time Required for each step: 0.002804
+Itteration: 512000
+Time Required for each step: 0.002662
+Itteration: 513000
+Time Required for each step: 0.002645
+Itteration: 514000
+Time Required for each step: 0.002533
+Itteration: 515000
+Time Required for each step: 0.002697
+Itteration: 516000
+Time Required for each step: 0.002525
+Itteration: 517000
+Time Required for each step: 0.002727
+Itteration: 518000
+Time Required for each step: 0.002549
+Itteration: 519000
+Time Required for each step: 0.002323
+Itteration: 520000
+Time Required for each step: 0.002255
+Itteration: 521000
+Time Required for each step: 0.002633
+Itteration: 522000
+Time Required for each step: 0.002075
+Itteration: 523000
+Time Required for each step: 0.002287
+Itteration: 524000
+Time Required for each step: 0.002563
+Itteration: 525000
+Time Required for each step: 0.002394
+Itteration: 526000
+Time Required for each step: 0.002579
+Itteration: 527000
+Time Required for each step: 0.002577
+Itteration: 528000
+Time Required for each step: 0.002725
+Itteration: 529000
+Time Required for each step: 0.002657
+Itteration: 530000
+Time Required for each step: 0.002389
+Itteration: 531000
+Time Required for each step: 0.002746
+Itteration: 532000
+Time Required for each step: 0.002790
+Itteration: 533000
+Time Required for each step: 0.002545
+Itteration: 534000
+Time Required for each step: 0.002427
+Itteration: 535000
+Time Required for each step: 0.002651
+Itteration: 536000
+Time Required for each step: 0.002648
+Itteration: 537000
+Time Required for each step: 0.002550
+Itteration: 538000
+Time Required for each step: 0.002766
+Itteration: 539000
+Time Required for each step: 0.002483
+Itteration: 540000
+Time Required for each step: 0.002567
+Itteration: 541000
+Time Required for each step: 0.002443
+Itteration: 542000
+Time Required for each step: 0.002670
+Itteration: 543000
+Time Required for each step: 0.002659
+Itteration: 544000
+Time Required for each step: 0.002767
+Itteration: 545000
+Time Required for each step: 0.002509
+Itteration: 546000
+Time Required for each step: 0.002617
+Itteration: 547000
+Time Required for each step: 0.002611
+Itteration: 548000
+Time Required for each step: 0.002631
+Itteration: 549000
+Time Required for each step: 0.002385
+Itteration: 550000
+Time Required for each step: 0.002713
+Itteration: 551000
+Time Required for each step: 0.002647
+Itteration: 552000
+Time Required for each step: 0.002387
+Itteration: 553000
+Time Required for each step: 0.002536
+Itteration: 554000
+Time Required for each step: 0.002734
+Itteration: 555000
+Time Required for each step: 0.002510
+Itteration: 556000
+Time Required for each step: 0.002432
+Itteration: 557000
+Time Required for each step: 0.002548
+Itteration: 558000
+Time Required for each step: 0.002595
+Itteration: 559000
+Time Required for each step: 0.002647
+Itteration: 560000
+Time Required for each step: 0.002647
+Itteration: 561000
+Time Required for each step: 0.002427
+Itteration: 562000
+Time Required for each step: 0.002707
+Itteration: 563000
+Time Required for each step: 0.002672
+Itteration: 564000
+Time Required for each step: 0.002660
+Itteration: 565000
+Time Required for each step: 0.002658
+Itteration: 566000
+Time Required for each step: 0.002519
+Itteration: 567000
+Time Required for each step: 0.002428
+Itteration: 568000
+Time Required for each step: 0.002524
+Itteration: 569000
+Time Required for each step: 0.002508
+Itteration: 570000
+Time Required for each step: 0.002248
+Itteration: 571000
+Time Required for each step: 0.002612
+Itteration: 572000
+Time Required for each step: 0.002653
+Itteration: 573000
+Time Required for each step: 0.002512
+Itteration: 574000
+Time Required for each step: 0.002621
+Itteration: 575000
+Time Required for each step: 0.002268
+Itteration: 576000
+Time Required for each step: 0.002551
+Itteration: 577000
+Time Required for each step: 0.002593
+Itteration: 578000
+Time Required for each step: 0.002443
+Itteration: 579000
+Time Required for each step: 0.002817
+Itteration: 580000
+Time Required for each step: 0.002610
+Itteration: 581000
+Time Required for each step: 0.002753
+Itteration: 582000
+Time Required for each step: 0.002575
+Itteration: 583000
+Time Required for each step: 0.002491
+Itteration: 584000
+Time Required for each step: 0.002463
+Itteration: 585000
+Time Required for each step: 0.002564
+Itteration: 586000
+Time Required for each step: 0.002710
+Itteration: 587000
+Time Required for each step: 0.002235
+Itteration: 588000
+Time Required for each step: 0.002703
+Itteration: 589000
+Time Required for each step: 0.002088
+Itteration: 590000
+Time Required for each step: 0.002721
+Itteration: 591000
+Time Required for each step: 0.002586
+Itteration: 592000
+Time Required for each step: 0.002763
+Itteration: 593000
+Time Required for each step: 0.002739
+Itteration: 594000
+Time Required for each step: 0.002488
+Itteration: 595000
+Time Required for each step: 0.002736
+Itteration: 596000
+Time Required for each step: 0.002546
+Itteration: 597000
+Time Required for each step: 0.002515
+Itteration: 598000
+Time Required for each step: 0.002692
+Itteration: 599000
+Time Required for each step: 0.002522
+Itteration: 600000
+Time Required for each step: 0.002642
+Itteration: 601000
+Time Required for each step: 0.002567
+Itteration: 602000
+Time Required for each step: 0.002559
+Itteration: 603000
+Time Required for each step: 0.002625
+Itteration: 604000
+Time Required for each step: 0.002713
+Itteration: 605000
+Time Required for each step: 0.002690
+Itteration: 606000
+Time Required for each step: 0.002515
+Itteration: 607000
+Time Required for each step: 0.002624
+Itteration: 608000
+Time Required for each step: 0.002595
+Itteration: 609000
+Time Required for each step: 0.002485
+Itteration: 610000
+Time Required for each step: 0.002553
+Itteration: 611000
+Time Required for each step: 0.002446
+Itteration: 612000
+Time Required for each step: 0.002550
+Itteration: 613000
+Time Required for each step: 0.002563
+Itteration: 614000
+Time Required for each step: 0.002412
+Itteration: 615000
+Time Required for each step: 0.002622
+Itteration: 616000
+Time Required for each step: 0.002574
+Itteration: 617000
+Time Required for each step: 0.002511
+Itteration: 618000
+Time Required for each step: 0.002657
+Itteration: 619000
+Time Required for each step: 0.002439
+Itteration: 620000
+Time Required for each step: 0.002492
+Itteration: 621000
+Time Required for each step: 0.002517
+Itteration: 622000
+Time Required for each step: 0.002719
+Itteration: 623000
+Time Required for each step: 0.002776
+Itteration: 624000
+Time Required for each step: 0.002518
+Itteration: 625000
+Time Required for each step: 0.002432
+Itteration: 626000
+Time Required for each step: 0.002480
+Itteration: 627000
+Time Required for each step: 0.002575
+Itteration: 628000
+Time Required for each step: 0.002761
+Itteration: 629000
+Time Required for each step: 0.002455
+Itteration: 630000
+Time Required for each step: 0.002850
+Itteration: 631000
+Time Required for each step: 0.002825
+Itteration: 632000
+Time Required for each step: 0.002845
+Itteration: 633000
+Time Required for each step: 0.002115
+Itteration: 634000
+Time Required for each step: 0.002615
+Itteration: 635000
+Time Required for each step: 0.002746
+Itteration: 636000
+Time Required for each step: 0.002531
+Itteration: 637000
+Time Required for each step: 0.002676
+Itteration: 638000
+Time Required for each step: 0.002813
+Itteration: 639000
+Time Required for each step: 0.002602
+Itteration: 640000
+Time Required for each step: 0.002778
+Itteration: 641000
+Time Required for each step: 0.002696
+Itteration: 642000
+Time Required for each step: 0.002623
+Itteration: 643000
+Time Required for each step: 0.002562
+Itteration: 644000
+Time Required for each step: 0.002728
+Itteration: 645000
+Time Required for each step: 0.002649
+Itteration: 646000
+Time Required for each step: 0.002755
+Itteration: 647000
+Time Required for each step: 0.002837
+Itteration: 648000
+Time Required for each step: 0.002531
+Itteration: 649000
+Time Required for each step: 0.002766
+Itteration: 650000
+Time Required for each step: 0.002695
+Itteration: 651000
+Time Required for each step: 0.002742
+Itteration: 652000
+Time Required for each step: 0.002700
+Itteration: 653000
+Time Required for each step: 0.002419
+Itteration: 654000
+Time Required for each step: 0.002641
+Itteration: 655000
+Time Required for each step: 0.002326
+Itteration: 656000
+Time Required for each step: 0.002638
+Itteration: 657000
+Time Required for each step: 0.002734
+Itteration: 658000
+Time Required for each step: 0.002483
+Itteration: 659000
+Time Required for each step: 0.002577
+Itteration: 660000
+Time Required for each step: 0.002702
+Itteration: 661000
+Time Required for each step: 0.002830
+Itteration: 662000
+Time Required for each step: 0.002537
+Itteration: 663000
+Time Required for each step: 0.002638
+Itteration: 664000
+Time Required for each step: 0.002564
+Itteration: 665000
+Time Required for each step: 0.002464
+Itteration: 666000
+Time Required for each step: 0.002859
+Itteration: 667000
+Time Required for each step: 0.002645
+Itteration: 668000
+Time Required for each step: 0.002552
+Itteration: 669000
+Time Required for each step: 0.002608
+Itteration: 670000
+Time Required for each step: 0.002768
+Itteration: 671000
+Time Required for each step: 0.002205
+Itteration: 672000
+Time Required for each step: 0.002603
+Itteration: 673000
+Time Required for each step: 0.002517
+Itteration: 674000
+Time Required for each step: 0.002342
+Itteration: 675000
+Time Required for each step: 0.002462
+Itteration: 676000
+Time Required for each step: 0.002382
+Itteration: 677000
+Time Required for each step: 0.002653
+Itteration: 678000
+Time Required for each step: 0.002593
+Itteration: 679000
+Time Required for each step: 0.002661
+Itteration: 680000
+Time Required for each step: 0.002608
+Itteration: 681000
+Time Required for each step: 0.002269
+Itteration: 682000
+Time Required for each step: 0.002860
+Itteration: 683000
+Time Required for each step: 0.002556
+Itteration: 684000
+Time Required for each step: 0.002728
+Itteration: 685000
+Time Required for each step: 0.002549
+Itteration: 686000
+Time Required for each step: 0.002551
+Itteration: 687000
+Time Required for each step: 0.002680
+Itteration: 688000
+Time Required for each step: 0.002546
+Itteration: 689000
+Time Required for each step: 0.002176
+Itteration: 690000
+Time Required for each step: 0.002829
+Itteration: 691000
+Time Required for each step: 0.002678
+Itteration: 692000
+Time Required for each step: 0.002545
+Itteration: 693000
+Time Required for each step: 0.002637
+Itteration: 694000
+Time Required for each step: 0.002500
+Itteration: 695000
+Time Required for each step: 0.002845
+Itteration: 696000
+Time Required for each step: 0.002613
+Itteration: 697000
+Time Required for each step: 0.002332
+Itteration: 698000
+Time Required for each step: 0.002748
+Itteration: 699000
+Time Required for each step: 0.002450
+Itteration: 700000
+Time Required for each step: 0.002714
+Itteration: 701000
+Time Required for each step: 0.002703
+Itteration: 702000
+Time Required for each step: 0.002538
+Itteration: 703000
+Time Required for each step: 0.002287
+Itteration: 704000
+Time Required for each step: 0.002665
+Itteration: 705000
+Time Required for each step: 0.002716
+Itteration: 706000
+Time Required for each step: 0.002561
+Itteration: 707000
+Time Required for each step: 0.002618
+Itteration: 708000
+Time Required for each step: 0.002593
+Itteration: 709000
+Time Required for each step: 0.002549
+Itteration: 710000
+Time Required for each step: 0.002479
+Itteration: 711000
+Time Required for each step: 0.002497
+Itteration: 712000
+Time Required for each step: 0.002828
+Itteration: 713000
+Time Required for each step: 0.002355
+Itteration: 714000
+Time Required for each step: 0.002801
+Itteration: 715000
+Time Required for each step: 0.002316
+Itteration: 716000
+Time Required for each step: 0.002502
+Itteration: 717000
+Time Required for each step: 0.002559
+Itteration: 718000
+Time Required for each step: 0.002735
+Itteration: 719000
+Time Required for each step: 0.002643
+Itteration: 720000
+Time Required for each step: 0.002722
+Time taken for 720000 itterations is 1882.888508
